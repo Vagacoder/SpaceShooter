@@ -10,4 +10,4 @@ SpaceShooter is a game made using Unity Engine, following with online [tutorial]
 
 ## Playable Link
 
-![SpaceShooter](https://vagacoder.github.io/SpaceShooter/)
+[SpaceShooter](https://vagacoder.github.io/SpaceShooter/)
